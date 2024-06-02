@@ -1,0 +1,16 @@
+node_modules/
+
+models/
+venv/
+
+__pycache__/
+
+desc_FT_new.model
+desc_FT_new.model.wv.vectors_ngrams.npy
+descFT_LR_new.pkl
+
+*.log
+*.tmp
+*.swp
+.DS_Store
+
